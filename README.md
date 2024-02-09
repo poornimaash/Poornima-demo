@@ -1,2 +1,3 @@
 # Poornima-demo
-This is my first gitrepo
+This is my first gitrepository
+Author-Poornima
